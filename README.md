@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lrbonsu
-- 👀 I’m interested in books (afrofuturism, thriller, historical fiction), live music, boxing and traveling
-- 🌱 I’m currently learning SQL, Python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in books (afrofuturism, thriller, historical fiction), live music, hiking and traveling
+- 🌱 I’m currently refining my SQL and Python skills
+- 💞️ I’m looking to collaborate on public health related projects, including health disparity issues
+- 📫 How to reach me lrbonsu@gmail.com
 
 <!---
 lrbonsu/lrbonsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
